@@ -2,7 +2,10 @@
   <header class="sticky top-0 z-50 bg-white/80 backdrop-blur border-b">
     <nav class="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 h-16 flex items-center justify-between">
       <RouterLink to="/" class="flex items-center gap-2">
-        <span class="font-semibold text-red-600">ITK Donor </span>
+       <img
+        src="../assets/logo.png"
+        class="rounded-2xl w-full h-[60px]"
+      />
       </RouterLink>
 
       <ul class="hidden md:flex items-center gap-6 text-sm">

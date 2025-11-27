@@ -6,7 +6,7 @@
       <h1 class="text-3xl font-bold mb-4 text-gray-800">Tentang Kami</h1>
       <p class="text-gray-600 leading-relaxed">
         <span class="font-semibold text-red-600"
-          >Donor Darah Kampus Merdeka</span
+          >ITK Donor</span
         >
         adalah platform digital yang memfasilitasi proses donor darah,
         pengelolaan stok, serta informasi kegiatan donor di lingkungan kampus

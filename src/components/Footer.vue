@@ -5,10 +5,10 @@
     >
       <div class="space-y-2">
         <div class="flex items-center gap-2">
-          <span class="font-semibold">Donor Darah Kampus Merdeka</span>
+          <span class="font-semibold">ITK Donor</span>
         </div>
         <p class="text-sm text-white/90">
-          Platform donor darah kolaborasi civitas Kampus Merdeka untuk
+          Platform donor darah kolaborasi civitas ITK untuk
           mempermudah pendonor dan penerima.
         </p>
         <div class="flex gap-3 pt-2">
@@ -87,7 +87,7 @@ Jl. Soekarno Hatta KM 15,Balikpapan Utara,Kalimantan Timur        </p>
       <div
         class="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 py-4 text-xs text-white/90"
       >
-        © 2025 Donor Darah Kampus Merdeka. Semua hak cipta dilindungi.
+        © 2025 ITK Donor. Semua hak cipta dilindungi.
       </div>
     </div>
   </footer>
