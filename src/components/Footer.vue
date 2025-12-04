@@ -4,7 +4,6 @@
   >
     <div class="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 py-10 grid gap-8 md:grid-cols-4">
 
-      <!-- Kolom 1 -->
       <div class="space-y-2">
         <span class="font-semibold">ITK Donor</span>
 
@@ -14,7 +13,6 @@
 
         <div class="flex gap-4 pt-2">
 
-          <!-- Instagram -->
           <a
             href="https://instagram.com"
             target="_blank"
@@ -24,7 +22,6 @@
             IG
           </a>
 
-          <!-- Facebook -->
           <a
             href="https://facebook.com"
             target="_blank"
@@ -34,7 +31,6 @@
             FB
           </a>
 
-          <!-- X / Twitter -->
           <a
             href="https://twitter.com"
             target="_blank"
@@ -47,7 +43,6 @@
         </div>
       </div>
 
-      <!-- Kolom lainnya tetap -->
       <div>
         <h4 class="font-semibold mb-3 text-white">Kontak</h4>
         <p class="text-sm text-white">Jl. Soekarno Hatta KM 15, Balikpapan Utara</p>
@@ -85,7 +80,6 @@ import { Instagram, Facebook, Twitter } from "lucide-vue-next";
 </script>
 
 <style scoped>
-/* IG/FB/X selalu putih */
 .footer-social,
 .footer-social:hover,
 .footer-social:active,
@@ -95,7 +89,6 @@ import { Instagram, Facebook, Twitter } from "lucide-vue-next";
   text-decoration-color: white !important;
 }
 
-/* RouterLink tetap putih */
 .footer-link {
   color: white !important;
   text-decoration: underline transparent;
@@ -107,7 +100,6 @@ import { Instagram, Facebook, Twitter } from "lucide-vue-next";
   text-decoration-color: white !important;
 }
 
-/* RouterLink active juga selalu putih */
 .router-link-active,
 .router-link-exact-active {
   color: white !important;
