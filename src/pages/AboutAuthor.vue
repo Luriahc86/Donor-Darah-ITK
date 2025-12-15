@@ -16,7 +16,7 @@
 
     <div data-aos="fade-left">
       <img
-        src="../assets/about-Author.jpg"
+        src="../assets/about-author.jpg"
         alt="Tentang Kami"
         class="rounded-2xl w-full h-[320px] object-cover shadow-lg hover:scale-105 transition-transform duration-500"
       />
