@@ -14,7 +14,7 @@
         <li><RouterLink :to="{name:'Campaign'}" class="nav-link">Kampanye Donor</RouterLink></li>
         <li><RouterLink :to="{name:'Request'}" class="nav-link">Permintaan Darah</RouterLink></li>
         <li><RouterLink :to="{name:'Contact'}" class="nav-link">Kontak & Bantuan</RouterLink></li>
-        <li><RouterLink :to="{name:'AboutAuthor'}" class="nav-link">Tentang Pembuat</RouterLink></li>       
+        <li><RouterLink :to="{name:'Author'}" class="nav-link">Tentang Pembuat</RouterLink></li>       
       </ul>
 
       <RouterLink
@@ -43,7 +43,7 @@
         <RouterLink @click="close" class="mobile-link" :to="{name:'Campaign'}">Kampanye Donor</RouterLink>
         <RouterLink @click="close" class="mobile-link" :to="{name:'Request'}">Permintaan Darah</RouterLink>
         <RouterLink @click="close" class="mobile-link" :to="{name:'Contact'}">Kontak & Bantuan</RouterLink>
-        <RouterLink @click="close" class="mobile-link" :to="{name:'AboutAuthor'}">Tentang Pembuat</RouterLink>     
+        <RouterLink @click="close" class="mobile-link" :to="{name:'Author'}">Tentang Pembuat</RouterLink>     
         <RouterLink @click="close" to="/permintaan-darah" class="block text-center px-4 py-2 rounded-lg bg-red-600 text-white">Donor Sekarang</RouterLink>
       </div>
     </div>
